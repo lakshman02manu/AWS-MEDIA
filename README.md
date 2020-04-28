@@ -1,5 +1,5 @@
 # AWS-MEDIA
-I've created an media streaming service like Amazon and netflix  using amazon web services and third part app Emby.
+I've created an media streaming service like Amazon and netflix  using amazon web services and third party app Emby.
 (https://emby.media)
 
 To access this go for sign in,
